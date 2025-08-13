@@ -1,1 +1,36 @@
+body {
+  background-color:white;
+}
+
+h1 {
+  color:blue;
+}
+
+h2 {
+  color:black;
+}
+p {
+  font-family:cursive;
+  text-align:center;
+}
+
+ul {
+  text-decoration:none;
+}
+
+ol {
+ line-height: 2.5;
+}
+
+.links:visited {
+  color:orange;
+}
+
+a:visited {
+  font-style:italic;
+}
+
+#name {
+  font-size:20px;
+}
 
