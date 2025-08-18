@@ -42,6 +42,10 @@ a:visited {
   margin-left:auto;
   margin-right:auto;
 }
+img {
+  width:200px; 
+  height:150px;
+}
 ul {
   display:inline;
 }
